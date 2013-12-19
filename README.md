@@ -3,8 +3,6 @@ Node.js Static Site Generators / Blog Platform
 
 List of Node.js static site generators
 
-### List
-  
   * <a href="https://ghost.org/" target="_blank" title="Ghost" >https://ghost.org/</a>
   * <a href="http://docpad.org/" target="_blank" title="Docpad" >http://docpad.org/</a>
   * <a href="http://www.cabinjs.com/" target="_blank" title="Cabin" >http://www.cabinjs.com/</a>
