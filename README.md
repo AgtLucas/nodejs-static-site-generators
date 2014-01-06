@@ -15,6 +15,7 @@ Node.js Static Site Generators / Blog Platform
 ### Blog Platforms
 
   * <a href="https://ghost.org/" target="_blank" title="Ghost" >https://ghost.org/</a>
+  * <a href="http://zespia.tw/hexo/" target="_blank" title="Hexo" >http://zespia.tw/hexo/</a>
   
 ### Contributing
  
