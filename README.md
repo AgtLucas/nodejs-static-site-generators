@@ -11,6 +11,7 @@ Node.js Static Site Generators / Blog Platform
   * <a href="http://blacksmith.jit.su/" target="_blank" title="Blacksmith" >http://blacksmith.jit.su/</a>
   * <a href="http://jsantell.github.io/poet/" target="_blank" title="Poet" >http://jsantell.github.io/poet/</a>
   * <a href="http://awestruct.org/" target="_blank" title="Awestruct" >http://awestruct.org/</a>
+  * <a href="http://www.metalsmith.io/" target="_blank" title="Metalsmith" >http://www.metalsmith.io/</a>
 
 ### Blog Platforms
 
